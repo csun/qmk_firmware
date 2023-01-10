@@ -7,7 +7,6 @@ MCU = atmega32u4
 # Target architecture (see library "Board Types" documentation).
 ARCH = AVR8
 BOOTLOADER = caterina
-BOOTMAGIC_ENABLE = yes
 
 # Build Options
 #   comment out to disable the options.

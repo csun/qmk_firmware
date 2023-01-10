@@ -3,22 +3,16 @@
 
 #include "config_common.h"
 
-// Default debounce of 5 seems to be too little
 #define DEBOUNCE 5
 
 #define EE_HANDS
 #define MASTER_LEFT
+//#define SPLIT_USB_DETECT
 
-#define USE_I2C
 #define SOFT_SERIAL_PIN D2
 
 #define MATRIX_ROWS 10 // Double for split
 #define MATRIX_COLS 9
-
-#define BOOTMAGIC_LITE_ROW 0
-#define BOOTMAGIC_LITE_COLUMN 1
-#define BOOTMAGIC_LITE_ROW_RIGHT 6
-#define BOOTMAGIC_LITE_COLUMN_RIGHT 0
 
 // Change this to how you wired your keyboard
 // COLS: Left to right, ROWS: Top to bottom
