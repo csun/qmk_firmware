@@ -1,5 +1,4 @@
-#ifndef ELLIPSIS_H
-#define ELLIPSIS_H
+#pragma once
 
 #include "quantum.h"
 

@@ -1,12 +1,10 @@
-#ifndef CONFIG_H
-#define CONFIG_H
+#pragma once
 
 #include "config_common.h"
 
 #define DEBOUNCE 5
 
 #define EE_HANDS
-#define MASTER_LEFT
 #define SPLIT_USB_DETECT
 
 #define SOFT_SERIAL_PIN D2
