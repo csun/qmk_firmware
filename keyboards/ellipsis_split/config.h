@@ -7,7 +7,7 @@
 
 #define EE_HANDS
 #define MASTER_LEFT
-//#define SPLIT_USB_DETECT
+#define SPLIT_USB_DETECT
 
 #define SOFT_SERIAL_PIN D2
 

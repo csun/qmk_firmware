@@ -12,6 +12,7 @@ BOOTLOADER = caterina
 #   comment out to disable the options.
 #
 SPLIT_KEYBOARD   = yes
+SERIAL_DRIVER = bitbang
 
 MOUSEKEY_ENABLE  = no # Mouse keys(+4700)
 EXTRAKEY_ENABLE  = yes # Audio control and System control(+450)
