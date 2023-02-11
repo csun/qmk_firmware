@@ -2,7 +2,7 @@
 
 #include "config_common.h"
 
-#define DEBOUNCE 5
+#define DEBOUNCE 16
 
 #define EE_HANDS
 #define SPLIT_USB_DETECT
